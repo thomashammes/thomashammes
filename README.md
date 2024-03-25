@@ -1,7 +1,7 @@
 <h1 align="left">👨🏻‍💻 Thomas Hammes</h1>
 <section>
 
-<section>
+<section align="left">
 <a href="https://www.linkedin.com/in/thomas-hammes-5a9119150/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>   
   </a>
@@ -15,9 +15,8 @@
   </a>
   
 </section>
-  <img align="right" alt="GIF" src="./matrix-operator.gif" width="350"/>  
+  <img align="right" alt="GIF" src="./matrix-operator.gif" width="315"/>  
   
-
  #### Hello! I'm a results-driven software developer experienced in full-stack programming, software testing, and agile methodologies.
 
 </section>

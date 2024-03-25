@@ -17,7 +17,7 @@
 </section>
   <img align="right" alt="GIF" src="./matrix-operator.gif" width="315"/>  
   
- #### Hello! I'm a software developer trying to be a little better every day than I was the day before.
+ #### Hello! I'm a software developer striving daily to be better than I was the day before.
 
 </section>
 

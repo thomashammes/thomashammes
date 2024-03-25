@@ -14,6 +14,8 @@
   
 #### Hello! I'm a software developer striving daily to be better than I was the day before.
   <img  alt="GIF" src="./matrix-operator.gif" width="310">  
+  
+###### So I can hack the Matrix. 🤓
 
 ### Main Technologies
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>

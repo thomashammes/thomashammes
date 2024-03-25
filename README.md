@@ -1,23 +1,25 @@
-<h1 align="center">Thomas Hammes</h1>
+<h1 align="left">👨🏻‍💻 Thomas Hammes</h1>
 <section>
 
 <section>
-    <a href="https://www.linkedin.com/in/thomas-hammes-5a9119150/" target="_blank">
-    <img align="center" src="https://i.ibb.co/HHvw15g/linkedin-icon.png" alt="LinkedIn" height="20" width="20" />   
-  </a>&nbsp;&nbsp;&nbsp;
+<a href="https://www.linkedin.com/in/thomas-hammes-5a9119150/" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/>   
+  </a>
+
   <a href="mailto:thomas.hammes@hotmail.com.com" target="_blank">
-    <img align="center" src="https://i.ibb.co/6DVQrFW/gmail-icon.png" alt="E-mail" height="20" width="20" />
-  </a>&nbsp;&nbsp;&nbsp;
+    <img src="https://img.shields.io/badge/mail-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Mail"/>
+  </a>
+  
    <a href="https://api.whatsapp.com/send?phone=5592981067385&lang=en" target="_blank">
-    <img align="center" src="https://cdn-icons-png.flaticon.com/512/733/733585.png" alt="WhatsApp" height="20" width="20" />
+    <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white" alt="WhatsApp"/>
   </a>
   
 </section>
   <img align="right" alt="GIF" src="./matrix-operator.gif" width="350"/>  
   
 
- #### Hello! I'm a software developer committed to delivering results and constantly self-improving. Experienced in full-stack programming, software testing, and agile methodologies.
-  
+ #### Hello! I'm a results-driven software developer experienced in full-stack programming, software testing, and agile methodologies.
+
 </section>
 
 <section>
@@ -31,7 +33,6 @@
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="30" height="30"/>
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="30" height="30"/> 
 </section>
-
 
 <!--
 !

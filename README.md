@@ -15,9 +15,9 @@
   </a>
   
 </section>
-  <img align="right" alt="GIF" src="./matrix-operator.gif" width="315"/>  
+  <img align="right" alt="GIF" src="./matrix-operator.gif" width="310"/>  
   
- #### Hello! I'm a software developer striving daily to be better than I was the day before.&nbsp;&nbsp;
+ #### Hello! I'm a software developer striving daily to be better than I was the day before.&nbsp;
 
 </section>
 

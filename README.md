@@ -18,13 +18,14 @@
 ###### So I can hack the Matrix. 🤓
 
 ### Main Technologies
-<img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original.svg" alt="java" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/spring/spring-original.svg" alt="spring" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/angular/angular-original.svg" alt="angular" width="30" height="30"/>
-<img src="https://github.com/devicons/devicon/blob/master/icons/nextjs/nextjs-original.svg" alt="next" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" alt="css3"  width="30" height="30"/>
-<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" alt="html5"  width="30" height="30"/> 
+
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Java-Light.svg" alt="java" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Spring-Light.svg" alt="spring" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/Angular-Light.svg" alt="angular" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NextJS-Light.svg" alt="next" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/NodeJS-Light.svg" alt="nodejs" width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg" alt="css3"  width="40" height="40"/>
+<img src="https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg" alt="html5"  width="40" height="40"/> 
 
  </section>
 <!--
